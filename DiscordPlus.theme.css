@@ -11,14 +11,14 @@
  * @updateUrl https://plusinsta.github.io/discord-plus/DiscordPlus.theme.css
  * @invite 2Jwh2nS
 */
-@import url(https://watermark.lovepik.com/photo/20211202/large/lovepik-galaxy-starry-sky-picture_501406731.jpg);
+@import url(https://raw.githubusercontent.com/TBAVPfrags/discord-plus/master/DiscordPlus.theme.css);
 
 /* I've commented most of these values so you can change them yourself. If you're having trouble, or you want to do more than what these values allow for, a volunteer might be able to help you in my server. */
 
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://images.pexels.com/photos/957010/milky-way-starry-sky-night-sky-star-957010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  --dplus-backdrop: url(https://watermark.lovepik.com/photo/20211202/large/lovepik-galaxy-starry-sky-picture_501406731.jpg);
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 240;
